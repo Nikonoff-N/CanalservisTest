@@ -79,6 +79,7 @@ def update_data(Update:Order,data:OrderData,session:Session):
 
 
 #Присоединяемся к базе, создаём таблицы
+#Здесь используется локальная база данных,что скорее всего будет проблемой в образе Docker
 engine = create_engine("postgresql://testuser:testuser@localhost:5432/testdb")
 SQLModel.metadata.create_all(engine)
 
