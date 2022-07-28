@@ -21,6 +21,5 @@
     
     c. Разработка одностраничного web-приложения на основе Django или Flask. Front-end React.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee6a638-c52e-46a0-9c2d-cb518c955fb1/Untitled.png)
 
 На сегодня выполни задачи 1-3
